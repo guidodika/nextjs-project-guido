@@ -19,6 +19,11 @@
       "title": "Produc 2",
       "price": 1000,
       "id": 5
+    },
+    {
+      "title": "Product 5 Update",
+      "price": "100",
+      "id": 6
     }
   ]
 }
