@@ -9,4 +9,6 @@ e. Delete Post
 
 Menggunakan Tailwind CSS dan DaisyUI
 
+Menggunakan JSON Server untuk membuat data dummy API
 
+* Maaf jika beberapa masih belum sesuai dengan ketentuan dikarenakan saya masih baru dalam mempelajari Next JS.
